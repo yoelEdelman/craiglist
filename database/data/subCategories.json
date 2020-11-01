@@ -1,0 +1,246 @@
+[
+    {
+        "name": "Activités",
+        "slug_category": "Communauté"
+    },
+    {
+        "name": "Animaux",
+        "slug_category": "Communauté"
+    },
+    {
+        "name": "Artistes",
+        "slug_category": "Communauté"
+    },
+    {
+        "name": "Bénévoles",
+        "slug_category": "Communauté"
+    },
+    {
+        "name": "Cours",
+        "slug_category": "Communauté"
+    },
+    {
+        "name": "Convoiturages",
+        "slug_category": "Communauté"
+    },
+    {
+        "name": "Musiciens",
+        "slug_category": "Communauté"
+    },
+    {
+        "name": "Politique",
+        "slug_category": "Communauté"
+    },
+    {
+        "name": "Garde d'enfants",
+        "slug_category": "Communauté"
+    },
+    {
+        "name": "Bureaux / Commerces",
+        "slug_category": "Immobilier"
+    },
+    {
+        "name": "Demande de logement",
+        "slug_category": "Immobilier"
+    },
+    {
+        "name": "Locations de vacances",
+        "slug_category": "Immobilier"
+    },
+    {
+        "name": "Parking / Garage",
+        "slug_category": "Immobilier"
+    },
+    {
+        "name": "Admin / Secretariat",
+        "slug_category": "Emploi"
+    },
+    {
+        "name": "Enseignement",
+        "slug_category": "Emploi"
+    },
+    {
+        "name": "Industrie",
+        "slug_category": "Emploi"
+    },
+    {
+        "name": "Médical",
+        "slug_category": "Emploi"
+    },
+    {
+        "name": "Marketing",
+        "slug_category": "Emploi"
+    },
+    {
+        "name": "Sécurité",
+        "slug_category": "Emploi"
+    },
+    {
+        "name": "Service clientèle",
+        "slug_category": "Emploi"
+    },
+    {
+        "name": "Système / Réseau",
+        "slug_category": "Emploi"
+    },
+    {
+        "name": "Hotellerie",
+        "slug_category": "Emploi"
+    },
+    {
+        "name": "Ressource humaine",
+        "slug_category": "Emploi"
+    },
+    {
+        "name": "Materiel lourd",
+        "slug_category": "A vendre"
+    },
+    {
+        "name": "Meubles",
+        "slug_category": "A vendre"
+    },
+    {
+        "name": "Motos",
+        "slug_category": "A vendre"
+    },
+    {
+        "name": "Ordinateurs",
+        "slug_category": "A vendre"
+    },
+    {
+        "name": "Outils",
+        "slug_category": "A vendre"
+    },
+    {
+        "name": "Pièces auto",
+        "slug_category": "A vendre"
+    },
+    {
+        "name": "Téléphones",
+        "slug_category": "A vendre"
+    },
+    {
+        "name": "Bijoux",
+        "slug_category": "A vendre"
+    },
+    {
+        "name": "Livres",
+        "slug_category": "A vendre"
+    },
+    {
+        "name": "Electromenager",
+        "slug_category": "A vendre"
+    },
+    {
+        "name": "Electronique",
+        "slug_category": "A vendre"
+    },
+    {
+        "name": "Bateaux",
+        "slug_category": "A vendre"
+    },
+    {
+        "name": "Avions",
+        "slug_category": "A vendre"
+    },
+    {
+        "name": "Antiquités",
+        "slug_category": "A vendre"
+    },
+    {
+        "name": "Maison",
+        "slug_category": "Services"
+    },
+    {
+        "name": "Marins",
+        "slug_category": "Services"
+    },
+    {
+        "name": "Financiers",
+        "slug_category": "Services"
+    },
+    {
+        "name": "Creation",
+        "slug_category": "Services"
+    },
+    {
+        "name": "Cycle",
+        "slug_category": "Services"
+    },
+    {
+        "name": "Jardin",
+        "slug_category": "Services"
+    },
+    {
+        "name": "Voyages",
+        "slug_category": "Services"
+    },
+    {
+        "name": "Amour",
+        "slug_category": "Forum de discussion"
+    },
+    {
+        "name": "Android",
+        "slug_category": "Forum de discussion"
+    },
+    {
+        "name": "Apple",
+        "slug_category": "Forum de discussion"
+    },
+    {
+        "name": "Histoire",
+        "slug_category": "Forum de discussion"
+    },
+    {
+        "name": "Sciences",
+        "slug_category": "Forum de discussion"
+    },
+    {
+        "name": "Spirit",
+        "slug_category": "Forum de discussion"
+    },
+    {
+        "name": "Vélos",
+        "slug_category": "Forum de discussion"
+    },
+    {
+        "name": "Régime",
+        "slug_category": "Forum de discussion"
+    },
+    {
+        "name": "Religion",
+        "slug_category": "Forum de discussion"
+    },
+    {
+        "name": "Linux",
+        "slug_category": "Forum de discussion"
+    },
+    {
+        "name": "Windows",
+        "slug_category": "Forum de discussion"
+    },
+    {
+        "name": "MacOs",
+        "slug_category": "Forum de discussion"
+    },
+    {
+        "name": "Beautés",
+        "slug_category": "Forum de discussion"
+    },
+    {
+        "name": "Divorce",
+        "slug_category": "Forum de discussion"
+    },
+    {
+        "name": "Eco",
+        "slug_category": "Forum de discussion"
+    },
+    {
+        "name": "Bon plan",
+        "slug_category": "Forum de discussion"
+    },
+    {
+        "name": "Blagues",
+        "slug_category": "Forum de discussion"
+    }
+]
